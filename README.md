@@ -1,0 +1,2 @@
+# smartSafeApp
+ Android Studio Praktikum
